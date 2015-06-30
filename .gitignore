@@ -1,1 +1,2 @@
-config.pgsql
+config.psql
+*.swp

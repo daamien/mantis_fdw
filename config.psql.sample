@@ -1,0 +1,10 @@
+
+-- DO NOT SET local_schema TO 'public'
+\set local_schema   mantis
+\set local_user     postgres
+
+-- How to connect to the mantis db
+\set remote_server 'localhost'
+\set remote_db 'mantis'
+\set remote_user 'mantis'
+\set remote_password 'change_me'

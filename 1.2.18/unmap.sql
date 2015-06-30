@@ -1,0 +1,33 @@
+
+ DROP FOREIGN TABLE :local_schema.mantis_bug_file_table;
+ DROP FOREIGN TABLE :local_schema.mantis_bug_history_table;
+ DROP FOREIGN TABLE :local_schema.mantis_bug_monitor_table;
+ DROP FOREIGN TABLE :local_schema.mantis_bug_relationship_table;
+ DROP FOREIGN TABLE :local_schema.mantis_bug_revision_table;
+ DROP FOREIGN TABLE :local_schema.mantis_bug_table;
+ DROP FOREIGN TABLE :local_schema.mantis_bug_tag_table;
+ DROP FOREIGN TABLE :local_schema.mantis_bug_text_table;
+ DROP FOREIGN TABLE :local_schema.mantis_bugnote_table;
+ DROP FOREIGN TABLE :local_schema.mantis_bugnote_text_table;
+ DROP FOREIGN TABLE :local_schema.mantis_category_table;
+ DROP FOREIGN TABLE :local_schema.mantis_config_table;
+ DROP FOREIGN TABLE :local_schema.mantis_custom_field_project_table;
+ DROP FOREIGN TABLE :local_schema.mantis_custom_field_string_table;
+ DROP FOREIGN TABLE :local_schema.mantis_custom_field_table;
+ DROP FOREIGN TABLE :local_schema.mantis_email_table;
+ DROP FOREIGN TABLE :local_schema.mantis_filters_table;
+ DROP FOREIGN TABLE :local_schema.mantis_news_table;
+ DROP FOREIGN TABLE :local_schema.mantis_plugin_table;
+ DROP FOREIGN TABLE :local_schema.mantis_project_file_table;
+ DROP FOREIGN TABLE :local_schema.mantis_project_hierarchy_table;
+ DROP FOREIGN TABLE :local_schema.mantis_project_table;
+ DROP FOREIGN TABLE :local_schema.mantis_project_user_list_table;
+ DROP FOREIGN TABLE :local_schema.mantis_project_version_table;
+ DROP FOREIGN TABLE :local_schema.mantis_sponsorship_table;
+ DROP FOREIGN TABLE :local_schema.mantis_tag_table;
+ DROP FOREIGN TABLE :local_schema.mantis_tokens_table;
+ DROP FOREIGN TABLE :local_schema.mantis_user_pref_table;
+ DROP FOREIGN TABLE :local_schema.mantis_user_print_pref_table;
+ DROP FOREIGN TABLE :local_schema.mantis_user_profile_table;
+ DROP FOREIGN TABLE :local_schema.mantis_user_table;
+
